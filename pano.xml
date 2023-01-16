@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.10" id="node1" apprev="18007">
+  <input leveltilesize="510" width="1000" levelbias="0.400" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1000" levelbiashidpi="1.000" levelingpitch="0">
+    <level width="1000" height="1000" preload="0" predecode="0"/>
+    <level width="500" height="500" preload="1" predecode="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start tilt="0" projection="4" fov="70" pan="0"/>
+    <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+    <min tilt="-90" fovpixel="2" pan="0"/>
+    <max tilt="90" fovstereographic="270" fovfisheye="360" fov="120" scaletofit="1" pan="360"/>
+  </view>
+  <userdata tags="" author="" comment="" title="" copyright="" datetime="" info="" longitude="" nodeid="node1" source="" description="" latitude="" heading="0" customnodeid=""/>
+  <hotspots width="180" wordwrap="1" height="20">
+    <label width="180" backgroundalpha="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" border="1" wordwrap="1" textalpha="1" height="20" borderalpha="1" textcolor="0x000000" borderradius="1"/>
+    <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+  </hotspots>
+  <media/>
+  <transition zoomin="0" zoomoutpause="1" enabled="1" zoomfov="20" zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" blendtime="1" zoomafterinfov="90" softedge="0" zoomout="0" blendcolor="0x000000"/>
+  <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+  <control lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" contextprojections="0"/>
+  <map width="1881" title="" zoomlevels="1" height="1880" id="FloorPlan01" bgcolor="rgba(255, 255, 255, 1)" type="file" tileformat="jpg" transparent="0" floorplannorth="0"/>
+  <map width="1881" title="" zoomlevels="1" height="1880" id="FloorPlan02" bgcolor="rgba(255, 255, 255, 1)" type="file" tileformat="jpg" transparent="0" floorplannorth="0"/>
+</panorama>
