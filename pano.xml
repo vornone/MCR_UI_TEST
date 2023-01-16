@@ -22,4 +22,5 @@
   <control lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedwheel="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" contextprojections="0"/>
   <map width="1881" title="" zoomlevels="1" height="1880" id="FloorPlan01" bgcolor="rgba(255, 255, 255, 1)" type="file" tileformat="jpg" transparent="0" floorplannorth="0"/>
   <map width="1881" title="" zoomlevels="1" height="1880" id="FloorPlan02" bgcolor="rgba(255, 255, 255, 1)" type="file" tileformat="jpg" transparent="0" floorplannorth="0"/>
+  <map width="2000" title="" zoomlevels="1" height="2000" id="FloorPlan03" bgcolor="rgba(255, 255, 255, 1)" type="file" tileformat="jpg" transparent="0" floorplannorth="0"/>
 </panorama>
